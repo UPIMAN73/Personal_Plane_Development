@@ -149,7 +149,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 9276.727539063
-P _gear/0/_stat_def 0.244630545
+P _gear/0/_stat_def 0.244630486
 P _gear/0/_steerdeg_hispeed 10.0
 P _gear/0/_steerdeg_lospeed 10.0
 P _gear/0/_strut_comp 1.500000000
@@ -183,7 +183,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 9276.727539063
-P _gear/1/_stat_def 0.254977345
+P _gear/1/_stat_def 0.254977375
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 2.599999905
@@ -217,7 +217,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 9276.727539063
-P _gear/2/_stat_def 0.254977345
+P _gear/2/_stat_def 0.254977375
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 2.599999905
@@ -20274,7 +20274,7 @@ P acf/_yel_lo_xmsn_T 0
 PROPERTIES_END
 PANEL_2D_BEGIN
 ECAM_mode ECAM_mode.png
-  POS 538.500000 236.500000
+  POS 774.071411 242.357147
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -20290,15 +20290,15 @@ avidyne_PFD Avidyne_PFD.png
   KEY_FRAME 1.000000 1.000000
 
 EFIS_map_t_GA map_t_GA.png
-  POS 558.000000 -22.000000
+  POS 559.142883 175.000015
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-ins_fuel_round_GA fuel_round_GA.png
-  POS 76.000000 -20.000000
+alt_HM alt_HM.png
+  POS 753.857117 69.571426
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -20308,7 +20308,7 @@ ins_fuel_round_GA fuel_round_GA.png
 PANEL_2D_END
 PANEL_3D_BEGIN
 ECAM_mode ECAM_mode.png
-  POS 538.500000 236.500000
+  POS 773.785706 237.500000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -20324,15 +20324,15 @@ avidyne_PFD Avidyne_PFD.png
   KEY_FRAME 1.000000 1.000000
 
 EFIS_map_t_GA map_t_GA.png
-  POS 558.000000 -22.000000
+  POS 559.000000 169.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-ins_fuel_round_GA fuel_round_GA.png
-  POS 76.000000 -20.000000
+alt_HM alt_HM.png
+  POS 753.857117 69.571426
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
